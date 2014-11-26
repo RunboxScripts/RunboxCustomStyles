@@ -1,5 +1,4 @@
-Runbox Style Tweaks
-=================
+# Runbox Style Tweaks
 
 CSS style customizations for Runbox.com Webmail.
 
