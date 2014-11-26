@@ -2,6 +2,7 @@
 
 CSS style customizations for Runbox.com Webmail.
 
+* Cleans up typography and layout
 * Tweaks the padding of some elements
 * Set the font to the system default Sans-Serif font instead of Verdana
 
