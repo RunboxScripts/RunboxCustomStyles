@@ -26,5 +26,6 @@ Thank you!
 
 ## Changelog
 
+* 1.2: Re-centered compose window content.
 * 1.1: Changed compose window CSS for cleaner layout. Refined CSS overall.
 * 1.0: Initial commit

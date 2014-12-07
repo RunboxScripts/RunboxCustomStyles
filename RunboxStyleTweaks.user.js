@@ -5,7 +5,7 @@
 // @downloadURL https://raw.githubusercontent.com/RunboxScripts/RunboxStyleTweaks/master/RunboxStyleTweaks.user.js
 // @updateURL   https://raw.githubusercontent.com/RunboxScripts/RunboxStyleTweaks/master/RunboxStyleTweaks.meta.js
 // @match       https://runbox.com/*
-// @version     1.1
+// @version     1.2
 // @run-at      document-start
 // @grant       GM_addStyle
 // ==/UserScript==
@@ -20,5 +20,6 @@ GM_addStyle(
     .submenu #unread { margin-left:0px !important } \
     .menumain a { font-size:1em; } \
     #compose { margin:0 auto; height:unset; width:unset; } \
-    #compose #editor { height:492px; }"
+    #compose #editor { height:458px} \
+    td.bgLight img { width:0px !important; }"
 );
