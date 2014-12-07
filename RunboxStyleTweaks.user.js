@@ -21,5 +21,5 @@ GM_addStyle(
     .menumain a { font-size:1em; } \
     #compose { margin:0 auto; height:unset; width:unset; } \
     #compose #editor { height:458px} \
-    td.bgLight img { width:0px !important; }"
+    #compose td.bgLight img { width:0px !important; }"
 );
