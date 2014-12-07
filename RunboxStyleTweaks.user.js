@@ -5,7 +5,7 @@
 // @downloadURL https://raw.githubusercontent.com/RunboxScripts/RunboxStyleTweaks/master/RunboxStyleTweaks.user.js
 // @updateURL   https://raw.githubusercontent.com/RunboxScripts/RunboxStyleTweaks/master/RunboxStyleTweaks.meta.js
 // @match       https://runbox.com/*
-// @version     1.2
+// @version     1.3
 // @run-at      document-start
 // @grant       GM_addStyle
 // ==/UserScript==
