@@ -5,7 +5,7 @@
 // @downloadURL https://raw.githubusercontent.com/RunboxScripts/RunboxStyleTweaks/master/RunboxStyleTweaks.user.js
 // @updateURL   https://raw.githubusercontent.com/RunboxScripts/RunboxStyleTweaks/master/RunboxStyleTweaks.meta.js
 // @match       https://runbox.com/*
-// @version     1.3
+// @version     1.4
 // @run-at      document-start
 // @grant       GM_addStyle
 // ==/UserScript==
@@ -17,7 +17,7 @@ GM_addStyle(
     td.body.messageContent { border-top: 1px dotted #8C8C8C; padding-top:4px; } \
     .form, .formfield { color:inherit; font-family:inherit; font-size:inherit; line-height:normal; } \
     .btn { font-family:inherit; } \
-    .submenu #unread { margin-left:0px !important } \
+    #menuUnread { margin-left:0px !important } \
     .menumain a { font-size:1em; } \
     #compose { margin:0 auto; height:unset; width:unset; } \
     #compose #editor { height:458px} \

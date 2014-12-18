@@ -26,6 +26,7 @@ Thank you!
 
 ## Changelog
 
+* 1.4: Updated CSS selector.
 * 1.3: Fixed bug introduced in 1.2 which affected folder list.
 * 1.2: Re-centered compose window content.
 * 1.1: Changed compose window CSS for cleaner layout. Refined CSS overall.
