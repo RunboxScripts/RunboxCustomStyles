@@ -1,33 +1,5 @@
 # Runbox Style Tweaks
 
-CSS style customizations for Runbox.com Webmail.
+CSS customizations for Runbox.com Webmail.
 
-* Cleans up typography and layout
-* Tweaks the padding of some elements
-* Set the font to the system default Sans-Serif font instead of Verdana
-
-## How to install
-
-Click this link: https://raw.githubusercontent.com/RunboxScripts/RunboxStyleTweaks/master/RunboxStyleTweaks.user.js
-
-You need a web browser that can run user scripts:
-* Firefox with Greasemonkey: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey
-* Chrome with Tampermonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
-
-## Bugs, Questions, Improvement Requests
-
-Open an issue or email us: RunboxScripts@runbox.com
-
-* Report bugs
-* Ask any questions
-* Make suggestions
-
-Thank you!
-
-## Changelog
-
-* 1.4: Updated CSS selector.
-* 1.3: Fixed bug introduced in 1.2 which affected folder list.
-* 1.2: Re-centered compose window content.
-* 1.1: Changed compose window CSS for cleaner layout. Refined CSS overall.
-* 1.0: Initial commit
+Moved to: https://gist.github.com/RunboxScripts/384b59393f6065935cab
