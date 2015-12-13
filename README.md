@@ -11,7 +11,7 @@ CSS customizations for Runbox.com Webmail.
 Requires the Runbox Aero Theme to be active in your account: https://runbox.com/mail/options
 
 ## Installation
-Install the following userstyle using Stylish: https://userstyles.org/help/stylish
+Install the following userstyle via Stylish: https://userstyles.org/help/stylish
 
 ```css
 /* Runbox Styles
@@ -32,6 +32,7 @@ Install the following userstyle using Stylish: https://userstyles.org/help/styli
   div.mailsubject span.new, a.headactive span.mailsubject {font-weight:bold !important;}
   td.messageContent {padding-top:13px !important;}
   #compose {margin:0 auto !important;width:unset !important;}
-  #compose #editor {height:440px !important;}
+  #compose #editor {height:420px !important;}
+  .select2-container .select2-choice span {line-height:2em !important}
 }
 ```
