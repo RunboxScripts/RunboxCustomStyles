@@ -33,6 +33,7 @@ Install the following userstyle via Stylish: https://userstyles.org/help/stylish
   td.messageContent {padding-top:13px !important;}
   #compose {margin:0 auto !important;width:unset !important;}
   #compose #editor {height:420px !important;}
+  /* Remove the following line for non-Firefox browsers */
   .select2-container .select2-choice span {line-height:2em !important}
 }
 ```
