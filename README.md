@@ -3,7 +3,7 @@
 CSS customizations for Runbox.com Webmail.
 
 * Increased font size
-* Font is now "sans-serif" instead of Verdana (Runbox will use whichever sans-serif font you have set in your web browser)
+* Font is now "sans-serif" instead of Verdana (Runbox will use the sans-serif font you have set in your web browser)
 * Adjust typography and layout
 * Tweak the padding of some elements
 * Center the compose window
