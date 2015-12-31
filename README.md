@@ -1,4 +1,4 @@
-# Runbox Style Tweaks
+# Runbox Custom Styles
 
 CSS customizations for Runbox.com Webmail.
 
@@ -32,7 +32,7 @@ Install the following userstyle via Stylish: https://userstyles.org/help/stylish
   div.mailsubject span.new, a.headactive span.mailsubject {font-weight:bold !important;}
   td.messageContent {padding-top:13px !important;}
   #compose {margin:0 auto !important;width:unset !important;}
-  #compose #editor {height:420px !important;}
+  #compose #editor {height:418px !important;}
   /* Remove the following line for non-Firefox browsers */
   .select2-container .select2-choice span {line-height:2em !important}
 }
