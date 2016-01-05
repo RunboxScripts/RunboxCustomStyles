@@ -37,3 +37,13 @@ Install the following userstyle via Stylish: https://userstyles.org/help/stylish
   .select2-container .select2-choice span {line-height:2em !important}
 }
 ```
+
+## Support
+
+[Open an issue](https://github.com/RunboxScripts/RunboxCustomStyles/issues) or email us: runboxscripts@runbox.com
+
+Feel free to:
+
+* Report bugs and problems
+* Ask any questions
+* Make any suggestions
