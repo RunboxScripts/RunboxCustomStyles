@@ -3,7 +3,7 @@
 CSS customizations for Runbox.com Webmail.
 
 * Increased font size
-* Font is now "sans-serif" instead of Verdana (Runbox will use the sans-serif font you have set in your web browser)
+* Default to the sans-serif font set in your browser instead of Verdana
 * Adjust typography and layout
 * Tweak the padding of some elements
 * Center the compose window
@@ -32,7 +32,8 @@ Install the following userstyle via Stylish: https://userstyles.org/help/stylish
   div.mailsubject span.new, a.headactive span.mailsubject {font-weight:bold !important;}
   td.messageContent {padding-top:13px !important;}
   #compose {margin:0 auto !important;width:unset !important;}
-  #compose #editor {height:418px !important;}
+  #compose #row_content td {padding-top:4px !important;}
+  #compose #editor {height:430px !important;}
   /* Remove the following line for non-Firefox browsers */
   .select2-container .select2-choice span {line-height:2em !important}
 }
