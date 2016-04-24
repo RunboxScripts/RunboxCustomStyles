@@ -39,7 +39,6 @@ td.messageContent { padding-top: 13px !important; }
  * Custom Styling for Runbox Webmail
  *
  */
-
 @-moz-document domain("runbox.com") {
     * { font-family: sans-serif !important; font-size: 13px !important; line-height: normal !important; }
     div.menumain li a { font-family: sans-serif !important; }
