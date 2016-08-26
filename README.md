@@ -58,7 +58,7 @@ td.messageContent { padding-top: 13px !important; }
 
 ## Support
 
-[Open an issue](https://github.com/RunboxScripts/RunboxCustomStyles/issues) or email us: runboxscripts@runbox.com
+[Open an issue](https://github.com/RunboxScripts/RunboxCustomStyles/issues)
 
 Feel free to:
 
