@@ -1,5 +1,7 @@
 # Runbox Custom Styles
 
+**Note:** I no longer use Runbox, and am looking for a new [organization](https://github.com/RunboxScripts) maintainer for this project.
+
 CSS customizations for Runbox.com Webmail.
 
 * Increased font size
@@ -9,8 +11,6 @@ CSS customizations for Runbox.com Webmail.
 * Center the compose window
 
 Requires the Runbox Aero Theme to be active in your account: https://runbox.com/mail/options
-
-Note: I no longer use Runbox, and am looking for a new [organization](https://github.com/RunboxScripts) maintainer for this project.
 
 ## Installation
 
