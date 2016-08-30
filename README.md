@@ -10,6 +10,8 @@ CSS customizations for Runbox.com Webmail.
 
 Requires the Runbox Aero Theme to be active in your account: https://runbox.com/mail/options
 
+Note: I no longer use Runbox, and am looking for a new [organization](https://github.com/RunboxScripts) maintainer for this project.
+
 ## Installation
 
 Install the following userstyle via Stylish: https://userstyles.org/help/stylish
