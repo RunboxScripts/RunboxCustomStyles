@@ -1,6 +1,6 @@
 # Runbox Custom Styles
 
-**Note:** I no longer use Runbox, and am looking for a new [organization](https://github.com/RunboxScripts) maintainer for this project.
+This project is Unmaintained.
 
 CSS customizations for Runbox.com Webmail.
 
